@@ -1,8 +1,8 @@
 <h1> Firebase-TOD</h1>
 <hr>
-<img src="Images/Signup.png" width="640" height= "480">
+<img src="Images/Signup.png" width="1280" height= "720">
 <hr>
-<img src="Images/Home.png" width="640" height= "480">
+<img src="Images/Home.png" width="1280" height= "720">
 <hr>
-<img src="Images/Login.png" width="640" height= "480">
+<img src="Images/Login.png" width="1280" height= "720">
 <hr>
